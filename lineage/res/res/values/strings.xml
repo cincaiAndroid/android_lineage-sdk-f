@@ -6,7 +6,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Label for the LineageOS system components when they are shown to the user. -->
-    <string name="lineageos_system_label">LineageOS System</string>
+    <string name="lineageos_system_label">cincaiAndroid System</string>
 
     <!-- Labels for the MODIFY_PROFILES permission. -->
     <string name="permlab_modifyProfiles">modify system profiles</string>
@@ -14,15 +14,15 @@
 
     <!-- Labels for the HARDWARE_ABSTRACTION_ACCESS permission. -->
     <string name="permlab_useHardwareFramework">use hardware framework</string>
-    <string name="permdesc_useHardwareFramework">Allows an app access to the Lineage hardware framework.</string>
+    <string name="permdesc_useHardwareFramework">Allows an app access to the cincaiAndroid hardware framework.</string>
 
     <!-- Labels for the WRITE_SETTINGS permission -->
-    <string name="permlab_writeSettings">modify Lineage system settings</string>
-    <string name="permdesc_writeSettings">Allows an app to modify Lineage system settings.</string>
+    <string name="permlab_writeSettings">modify cincaiAndroid system settings</string>
+    <string name="permdesc_writeSettings">Allows an app to modify cincaiAndroid system settings.</string>
 
     <!-- Labels for the WRITE_SECURE_SETTINGS permission -->
-    <string name="permlab_writeSecureSettings">modify Lineage secure system settings</string>
-    <string name="permdesc_writeSecureSettings">Allows an app to modify Lineage secure system settings. Not for use by normal apps.</string>
+    <string name="permlab_writeSecureSettings">modify cincaiAndroid secure system settings</string>
+    <string name="permdesc_writeSecureSettings">Allows an app to modify cincaiAndroid secure system settings. Not for use by normal apps.</string>
 
     <!-- Profiles -->
     <!-- Names of default profiles. -->
@@ -62,7 +62,6 @@
     <string name="live_display_outdoor">Outdoor (bright sun)</string>
     <string name="live_display_outdoor_summary">Use outdoor settings only</string>
     <string name="live_display_hint">LiveDisplay can help reduce eyestrain and help you sleep at night. Click here to try it out!</string>
-
     <string name="accessibility_quick_settings_live_display_off">LiveDisplay off.</string>
     <string name="accessibility_quick_settings_live_display_auto">LiveDisplay: auto mode.</string>
     <string name="accessibility_quick_settings_live_display_day">LiveDisplay: day mode.</string>
@@ -85,11 +84,11 @@
     <!-- About device screen, build date -->
     <string name="build_date">Build date</string>
     <!-- About device screen, LineageOS API Level -->
-    <string name="lineage_api_level">LineageOS API level</string>
+    <string name="lineage_api_level">cincaiAndroid API level</string>
     <!-- About device screen, LineageOS updates -->
-    <string name="lineage_updates">LineageOS updates</string>
+    <string name="lineage_updates">cincaiAndroid updates</string>
     <!-- About device screen, LineageOS version -->
-    <string name="lineage_version">LineageOS version</string>
+    <string name="lineage_version">cincaiAndroid version</string>
     <!-- About device screen, vendor security patch -->
     <string name="lineage_vendor_security_patch">Vendor security patch level</string>
 
@@ -121,7 +120,6 @@
     <string name="trust_notification_title_onboarding">Discover Trust</string>
     <string name="trust_notification_content_onboarding">Get to know how to assure your device is safe</string>
     <string name="trust_notification_action_manage">Manage alerts</string>
-
     <!-- Health interface -->
     <string name="charging_control_notification_channel">Charging control</string>
     <string name="charging_control_notification_title">Charging control</string>
